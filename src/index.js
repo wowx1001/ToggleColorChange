@@ -1,12 +1,12 @@
 import React from 'react';
 import ReactDOM from 'react-dom';
 import './index.css';
-import App from './App';
+import ToggleColorChangeWeb from './ToggleColorChangeWeb';
 import * as serviceWorker from './serviceWorker';
 
 ReactDOM.render(
   <React.StrictMode>
-    <App />
+    <ToggleColorChangeWeb />
   </React.StrictMode>,
   document.getElementById('root')
 );

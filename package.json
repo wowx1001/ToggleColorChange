@@ -19,6 +19,7 @@
   "eslintConfig": {
     "extends": "react-app"
   },
+  "homepage":"https://wowx1001.github.io/ToggleColorChange",
   "browserslist": {
     "production": [
       ">0.2%",

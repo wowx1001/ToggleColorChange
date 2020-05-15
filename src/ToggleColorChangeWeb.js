@@ -1,6 +1,6 @@
 import React,{useState} from 'react';
-import './App.css';
-const App = () => {
+import './ToggleColorChangeWeb.css';
+const ToggleColorChangeWeb = () => {
   const [toggle, setToggle] = useState(false);
   const ChangeColor=()=>{
     setToggle(!toggle)
@@ -28,4 +28,4 @@ const App = () => {
   );
 }
 
-export default App;
+export default ToggleColorChangeWeb;
