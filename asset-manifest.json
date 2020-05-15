@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/ToggleColorChange/static/css/main.6b0f9297.chunk.css",
+    "main.js": "/ToggleColorChange/static/js/main.48f0264c.chunk.js",
+    "main.js.map": "/ToggleColorChange/static/js/main.48f0264c.chunk.js.map",
+    "runtime-main.js": "/ToggleColorChange/static/js/runtime-main.5ff4f310.js",
+    "runtime-main.js.map": "/ToggleColorChange/static/js/runtime-main.5ff4f310.js.map",
+    "static/js/2.9d9bb711.chunk.js": "/ToggleColorChange/static/js/2.9d9bb711.chunk.js",
+    "static/js/2.9d9bb711.chunk.js.map": "/ToggleColorChange/static/js/2.9d9bb711.chunk.js.map",
+    "index.html": "/ToggleColorChange/index.html",
+    "precache-manifest.ce700eb17f49398d83340d342f7c6470.js": "/ToggleColorChange/precache-manifest.ce700eb17f49398d83340d342f7c6470.js",
+    "service-worker.js": "/ToggleColorChange/service-worker.js",
+    "static/css/main.6b0f9297.chunk.css.map": "/ToggleColorChange/static/css/main.6b0f9297.chunk.css.map",
+    "static/js/2.9d9bb711.chunk.js.LICENSE.txt": "/ToggleColorChange/static/js/2.9d9bb711.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.5ff4f310.js",
+    "static/js/2.9d9bb711.chunk.js",
+    "static/css/main.6b0f9297.chunk.css",
+    "static/js/main.48f0264c.chunk.js"
+  ]
+}
